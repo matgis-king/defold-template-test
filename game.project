@@ -13,5 +13,5 @@ input_method = HiddenInputField
 
 [project]
 title = Template Test
-version = 1.2
+version = 1.3
 
